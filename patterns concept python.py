@@ -13,7 +13,9 @@ for i in range(1,x+1):
 
 x=int(input("enter the number of rows: "))
 for i in range(1,x+1):
-    print(" "*(x-i)+"* " *i)
+    print(" "*(x-i)+"*" *i)
+
+
     
 #patterns in square shape
 
